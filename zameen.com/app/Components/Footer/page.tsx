@@ -12,7 +12,7 @@ const page = () => {
         <h2 className='text-xl font-bold'>Our Home Partners</h2>
         <img className='mt-3' src="https://www.zameen.com/assets/iconHbfcBank_noinline.e38973a19243c9020ae8b0970c382322.svg" alt="" />
         </div>
-    <footer  className="bg-[rgb(31,31,31)] text-[rgb(189,189,189)] w-[100%] p-8">
+    <footer  className="bg-[rgb(31,31,31)] text-[rgb(189,189,189)] w-[100%] p-10">
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
         {/* Column 1 */}
         <div className="mb-4">

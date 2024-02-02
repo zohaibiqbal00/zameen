@@ -9,8 +9,8 @@ const page: React.FC = () => {
   };
 
   return (
-    <div className='w-[100%] bg-white py-5 text-black'>
-        <h1 className='font-semibold text-3xl'>Popular Location</h1>
+    <div className='w-[100%] bg-white p-[70px] text-black'>
+        <h1 className='font-bold text-2xl'>Popular Location</h1>
         <div className=" max-w-5xl mx-auto mt-8">
             <div className="flex mb-4">
                 <button
@@ -36,7 +36,7 @@ const page: React.FC = () => {
       <div>
         
         {activeTab === 1 && <div className="p-4 w-[100%] text-black">
-            <h2 className='font-bold text-2xl'>Most Popular Locations for Plots</h2>
+            <h2 className='font-semibold text-2xl'>Most Popular Locations for Plots</h2>
             <div className='w-[100%] mt-5 flex justify-between'>
                 <div className='w-[33%]'>
                     <h2 className='font-bold'>Lahore</h2>
@@ -84,7 +84,7 @@ const page: React.FC = () => {
             
             </div>}
         {activeTab === 2 && <div className="p-4 text-black">
-        <h2 className='font-bold text-2xl'>Most Popular Locations for Rent</h2>
+        <h2 className='font-semibold text-2xl'>Most Popular Locations for Rent</h2>
             <div className='w-[100%] mt-5 flex justify-between'>
                 <div className='w-[33%]'>
                     <h2 className='font-bold'>Lahore</h2>
@@ -138,7 +138,7 @@ const page: React.FC = () => {
 
 <div style={{marginTop:'50px'}} className='mt-3'>
 
-    <h2 className='font-bold text-2xl'>Most Popular Locations for Houses</h2>
+    <h2 className='font-semibold text-2xl'>Most Popular Locations for Houses</h2>
             <div className='w-[100%] mt-5 flex justify-between'>
                 <div className='w-[33%]'>
                     <h2 className='font-bold'>Lahore</h2>
@@ -188,7 +188,7 @@ const page: React.FC = () => {
 
 
             <div style={{marginTop:'50px'}} className='mt-3'>
-                <h2 className='font-bold text-2xl'>Popular Cities to Rent Properties</h2>
+                <h2 className='font-semibold text-2xl'>Popular Cities to Rent Properties</h2>
                 <div className='w-[100%] mt-5 flex justify-between'>
                     <div className='w-[33%]'>
                 <h2 className='font-bold'>Houses</h2>
@@ -207,6 +207,7 @@ const page: React.FC = () => {
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Houses to rent in Abbottabad (17)</span></div>
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Houses to rent in Quetta (2)</span></div>
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Houses to rent in Attock (184)</span></div>
+                <button className='mt-4 text-blue-700 hover:underline'>Veiw all Cities</button>
             </div>
 
 
@@ -220,6 +221,7 @@ const page: React.FC = () => {
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Flats to rent in Lahore (1904)</span></div>
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Flats to rent in Rawalpindi (714)</span></div>
                 <div className='flex items-center gap-2 mt-4'><BiArrowToRight className="text-green-700"/><span>Flats to rent in Peshawar (31)</span></div>
+                <button className='mt-4 text-blue-700 hover:underline'>Veiw all Cities</button>
             </div>
             </div>
             </div>

@@ -1,15 +1,14 @@
 import Image from "next/image";
-import Nav from './Components/Navbar/page'
-import Header from './Components/Header/page'
-import Properties from './Components/Properties/page'
+import Header from "./wajid/Header/page"
+import Navbar from "./wajid/navbar/page"
+import Banner from "./wajid/Banner/page"
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Header />
-      <Nav />
-      <Properties />
-
-
-    </main>
+     <main className="h-screen  ">
+       <Header />
+       <Navbar/>
+        <Banner/>
+     </main>
   );
 }

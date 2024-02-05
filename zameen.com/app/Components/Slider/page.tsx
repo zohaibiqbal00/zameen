@@ -21,10 +21,10 @@
           <div className="max-w-sm mx-auto bg-white shadow-md rounded-md overflow-hidden">
   <img className="w-full h-48 object-cover rounded-lg" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRqRnFOVLUERuPzdhYj0UyZnriodHiaJyxbp-FLzumWtvQIliJ" alt="Card Image"/>
   <div>
-  <h2 className="text-lg font-semibold text-gray-800">PKR 79.79 lakh to 2.4 crore box park 11,Rawalpindi</h2>
-    <p className="text-gray-600 mt-2">Rawalpindi,Bahria Town Rawalpindi</p>
-    <p className='font-bold'>Shops</p>
-    <p>121 sqft to 467 sqft</p>
+  <h2 className="text-lg font-semibold text-gray-800">PKR 44.79 lakh to 1.86 green oaks residencia,Peshawar</h2>
+    <p className="text-gray-600 mt-2">Peshawar,Rahatabad</p>
+    <p className='font-bold text-md'>Flats,Shops</p>
+    <p>163 sqft to 1795 sqft</p>
   </div>
 </div>
 </SwiperSlide>
@@ -32,10 +32,10 @@
         <div className="max-w-sm mx-auto bg-white shadow-md rounded-md overflow-hidden">
   <img className="w-full h-48 object-cover rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKJMcGUoKoFmKwAWKI18kr2fnBbJNwCOdxpKjagMhI978wPVd" alt="Card Image"/>
   <div>
-  <h2 className="text-lg font-semibold text-gray-800">PKR 79.79 lakh to 2.4 crore box park 11,Rawalpindi</h2>
-    <p className="text-gray-600 mt-2">Rawalpindi,Bahria Town Rawalpindi</p>
-    <p className='font-bold'>Shops</p>
-    <p>121 sqft to 467 sqft</p>
+  <h2 className="text-lg font-semibold text-gray-800">PKR 69.18 lakh to 11.11 crore zameen ace mall,Islamabad</h2>
+    <p className="text-gray-600 mt-2">Islamabad,DHA Defence Phase2</p>
+    <p className='font-bold text-md'>Shops</p>
+    <p>60 sqft to 875 sqft</p>
   </div>
 </div>
         </SwiperSlide>
@@ -45,7 +45,7 @@
   <div>
   <h2 className="text-lg font-semibold text-gray-800">PKR 79.79 lakh to 2.4 crore box park 11,Rawalpindi</h2>
     <p className="text-gray-600 mt-2">Rawalpindi,Bahria Town Rawalpindi</p>
-    <p className='font-bold'>Shops</p>
+    <p className='font-bold text-md'>Shops</p>
     <p>121 sqft to 467 sqft</p>
   </div>
 </div>
@@ -56,7 +56,7 @@
   <div>
     <h2 className="text-lg font-semibold text-gray-800">PKR 79.79 lakh to 2.4 crore box park 11,Rawalpindi</h2>
     <p className="text-gray-600 mt-2">Rawalpindi,Bahria Town Rawalpindi</p>
-    <p className='font-bold'>Shops</p>
+    <p className='font-bold text-md'>Shops</p>
     <p>121 sqft to 467 sqft</p>
   </div>
 </div>
@@ -68,7 +68,7 @@
   <div>
     <h2 className="text-lg font-semibold text-gray-800">PKR 79.79 lakh to 2.4 crore box park 11,Rawalpindi</h2>
     <p className="text-gray-600 mt-2">Rawalpindi,Bahria Town Rawalpindi</p>
-    <p className='font-bold'>Shops</p>
+    <p className='font-bold text-md'>Shops</p>
     <p>121 sqft to 467 sqft</p>
   </div>
 </div>

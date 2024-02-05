@@ -3,6 +3,7 @@ import Nav from './Components/Navbar/page'
 import Header from './Components/Header/page'
 import Properties from './Components/Properties/page'
 import Footer from './Components/Footer/page';
+import Slider from './Components/Slider/page'
 import Tabs from './Components/Tabs/page'
 import Community from './Components/Community/page'
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <Header />
       <Nav />
       <Properties />
+      <Slider/>
       <Community/>
       <Tabs/>
       <Footer/>

@@ -17,8 +17,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+
+      <head>
+      
+      </head>
+      <body className={inter.className}>{children}
+      
+  
+      </body>
+
       <link rel="icon" href="https://play-lh.googleusercontent.com/8LfdOiQHWMsE1WXP_18yj61asw00uAHucGH2mOpDSesc_C5xEU9KJ_n1R0tLuhPZRW88" />
       <body className={inter.className}>{children}</body>
+
     </html>
   );
 }

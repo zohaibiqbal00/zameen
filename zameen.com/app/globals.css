@@ -3,6 +3,17 @@
 @tailwind utilities;
 
 
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+  *{
+    font-family: 'Lato', sans-serif;
+  }
+  .back{
+    background-image: url("./Components/Banner/imageBackgroundLarge.deeb0c70dcee6ae1d029e18e0dcc4d89.webp");
+    background-position: center;
+    background-size: cover;
+  }
+
 .box{
     background-color: rgb(255,255,255);
     

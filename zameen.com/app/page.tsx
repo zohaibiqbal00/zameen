@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Header from "./wajid/Header/page"
-import Navbar from "./wajid/navbar/page"
-import Banner from "./wajid/Banner/page"
+import Header from "./Components/Header/page"
+import Navbar from "./Components/navbar/page"
+import Banner from "./Components/Banner/page"
 
 export default function Home() {
   return (

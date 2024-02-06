@@ -9,12 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@nextui-org/react": "^2.2.9",
     "icons": "^1.0.0",
     "next": "14.1.0",
     "react": "^18.2.0",
     "react-dom": "^18",
     "react-icons": "^5.0.1"
+=======
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "start": "^5.1.0"
+>>>>>>> 54a5cd87b5cdc747b8edb7b5861337fd03663bf2
   },
   "devDependencies": {
     "@types/node": "^20",

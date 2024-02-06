@@ -1,1 +1,1 @@
-# zameen
+before running,,, "npm i swiper"# zameen
